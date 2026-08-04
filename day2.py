@@ -1,0 +1,1 @@
+print("day2 of my python")
